@@ -23,3 +23,9 @@ on the command line:
 
 To start the app, say "ok glass, unlock front door" from Glass' home screen
 screen or use the touch menu.
+
+### Requirements
+
+The following packages were installed into ADT to enable this app to compile into an APK.
+
+![Required](https://dl.dropboxusercontent.com/s/v60fulkdxifyxx3/Screenshot%202014-02-23%2022.33.06.png?token_hash=AAF3LEmVkKZcnTwJuiGo5B-AVjQALdDM1ldwlarwDc38mg)
